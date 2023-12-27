@@ -1,5 +1,8 @@
 # cache_elfstore
 
+This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique. 
+
+
 Project Demo video 
 
 https://drive.google.com/file/d/1Lu6Ub0dhmoKCVMlIlYrqxIBVxr5bgrnE/view?usp=sharing
