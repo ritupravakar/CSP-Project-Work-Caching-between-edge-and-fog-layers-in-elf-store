@@ -1,5 +1,5 @@
 # cache_elfstore
-Implemented caching (MPC) for ElfStore - This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique
+Implemented caching (MPC) for ElfStore - This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique.
 
 Project Demo video 
 
