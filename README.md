@@ -13,3 +13,6 @@ https://docs.google.com/document/d/1i_bZscvYgCOLfJ390sd8qC50Giu4hIbZeqVhIlEedFw/
 Publication 
 
 https://www.taylorfrancis.com/chapters/edit/10.1201/9781003336624-14/study-data-storage-data-retrieval-streaming-architectures-across-various-platforms-geetha-ritu-pravakar-pallavi-naik-sirisha-reddy
+
+
+We thank Indian Institute of Science‘s Department of Computational and Data Sciences (CDS) for supporting us throughout this project.
