@@ -1,4 +1,4 @@
-## CSP - Project Work - Caching between edge and fog layers in elf store
+## CSP - Project Work - Caching between edge and fog layers in elf store - Final year project 
 Implemented caching (MPC) for ElfStore - This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique.
 
 #### Team Members
