@@ -1,5 +1,5 @@
 ## CSP - Project Work - Caching between edge and fog layers in elf store - Final year project 
-Implemented caching (MPC) for ElfStore - This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique.
+Implemented caching (MPC) for ElfStore - This project aims to address the gap in distributed data storage on edge and fog layers and avoid sole dependence on cloud for data persistence. This is done by caching between the fog layers using MPC (Most Popular Caching) technique. We, hereby, declare that the entire work embodied in this project report has been carried out by us at M.S.Ramaiah Institute of Technology, Bengaluru, under the supervision of Dr. Geetha J, Dept of CSE. 
 
 #### Team Members
 
