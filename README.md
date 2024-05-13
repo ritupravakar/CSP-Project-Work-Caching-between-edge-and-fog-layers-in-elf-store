@@ -22,5 +22,3 @@ https://docs.google.com/document/d/1i_bZscvYgCOLfJ390sd8qC50Giu4hIbZeqVhIlEedFw/
 
 https://www.taylorfrancis.com/chapters/edit/10.1201/9781003336624-14/study-data-storage-data-retrieval-streaming-architectures-across-various-platforms-geetha-ritu-pravakar-pallavi-naik-sirisha-reddy
 
-
-We thank Prof. Yogesh Simmhan, Sumit Kumar Monga, Sheshadri K R, and Ishan Sharma of the Indian Institute of Science's Department of Computational and Data Sciences (CDS) for supporting and guiding us throughout this project of Distributed Systems Research on Emerging Applications & Machines(DREAM: Lab).
